@@ -1,0 +1,15 @@
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif 
+}
+
+* {
+    background-color: rgb(247, 227, 175);
+}
+
+p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+img {
+    border-radius: 15%
+}

@@ -1,6 +1,7 @@
 h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 40px;
+    background-color: rgb(247, 175, 157);
 }
 
 
@@ -16,6 +17,9 @@ img {
     border-radius: 15%;
     border: 5px dotted rgb(192, 132, 151);
     padding: 5px;
+    border-radius: 80px;
+    margin-top: 35px;
+    margin-left: 20px;
 }
 
 a {
@@ -23,8 +27,8 @@ a {
     text-decoration: none;
 }
 
-img {
-    margin-top: 35px;
-    margin-left: 20px;
-    border-radius: 80px;
+#header {
+    border-radius: 30px;
+    background-color: rgb(176, 208, 211);
+    padding-bottom: 34px;
 }

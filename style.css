@@ -28,7 +28,12 @@ a {
 }
 
 #header {
-    border-radius: 30px;
+    border-radius: 40px;
     background-color: rgb(176, 208, 211);
     padding-bottom: 34px;
+}
+
+li {
+    margin-top: 10px;
+    font-size:large;
 }
